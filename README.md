@@ -13,3 +13,6 @@ Example 2:
 ![Task2_Scheme](https://github.com/MihailTsybakov/ParticleCFD_2D/assets/62279777/57d560a9-7c95-4cc5-acef-e6d664a242f6)
 
 ![my_animation](https://github.com/MihailTsybakov/ParticleCFD_2D/assets/62279777/7ce9ee96-14b4-42b9-93b8-cf5d34d8f273)
+
+<hr>
+<i> ToDo, known issue: some particles are going through the barriers, fix needed </i>
